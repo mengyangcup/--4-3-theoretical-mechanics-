@@ -1,4 +1,5 @@
 # -4-3-theoretical-mechanics-
+理论力学第八版习题4-3
 This is a nonlinear system of equations, solved by Newton's iteration method. The idea should be correct, but the result has a large error with the exact value
 As shown in the figure, the rod placed on the V-shaped groove acts on a force couple, and the moment of the couple is M=15Nm, 
 which is just enough to rotate the rod. The weight of the bar is P=400N, and the diameter is D=0.25m.
