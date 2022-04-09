@@ -7,5 +7,8 @@ Static friction coefficient between material and V-groove
 1、Elimination method
 2、Iterative method
 3、Uing wolfram alpha
+4、matlab function 'solve';
 
 2、Support force 1= x1, support force 2=x2, friction force 1=x3, friction force 4=x4; static friction factor fs=x5, which is the parameter to be found
+finally problem solved.
+No strang begains the result will be good
