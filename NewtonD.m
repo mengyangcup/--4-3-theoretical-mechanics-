@@ -56,8 +56,9 @@ end
 
 function sys=fx( x1, x2,x3,x4,x5 )
     sys(1)=x1 + x4 - 400*sin(pi/4);
-    sys(2)=x2 + x3 - 400*sin(pi/4);
+    sys(2)=x2 - x3 - 400*sin(pi/4);
     sys(3)=x3 + x4 - 120;
     sys(4)=x4 - x5*x2;
     sys(5)=x3 - x5*x1;
 end
+
